@@ -1,0 +1,62 @@
+.calculator{
+    width: 90%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 55px;
+    box-shadow: 0 0 10px rgb(235, 141, 141);
+}
+
+#inputBox{
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 550px;
+    height: 90px;
+    font-size: 50px;
+    text-align: right;
+    border-radius: 55px;
+    box-shadow: 0 0 10px rgb(235, 141, 141);
+    background-color: #f0cee9;
+    color: #fff;
+    border: 0px;
+}
+table{
+    color: #080808;
+    text-align: center;
+    border-spacing: 20px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tr{
+    height: 16.02vh;
+    background-color: #d482c4;
+}
+
+td{
+     box-shadow: 0 0 10px rgb(235, 141, 141);
+    width: 25vw;
+    /*border: 1px solid #4e494d*/
+    border-radius: 100%;
+}
+
+.digitButton{
+    background-color: rgb(177, 133, 140);
+}
+.operatorButton{
+    background-color: rgb(245, 203, 203);
+}
+
+.equlualOperator{
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 550px;
+    height: 90px;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 55px;
+    box-shadow: 0 0 10px rgb(235, 141, 141);
+    background-color: #f0cee9;
+    color: #fff;
+    border: 0px;
+}
